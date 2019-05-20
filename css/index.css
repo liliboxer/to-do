@@ -6,7 +6,15 @@ body {
     align-items: center;
 }
 
+
+
 h1 {
     font-family: 'Righteous', cursive;
+    font-size: 75px;
 }
 
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    list-style: none;
+}
