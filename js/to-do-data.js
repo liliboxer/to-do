@@ -4,7 +4,7 @@ const todos = [
         completed: true
     },
     {
-        task: 'Learn forEach'
+        task: 'Learn forEach',
         completed: false
     },
     // etc...
