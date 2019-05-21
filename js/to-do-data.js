@@ -1,13 +1,21 @@
 const todos = [
     {
-        task: 'Learn templates',
-        completed: true
-    },
-    {
-        task: 'Learn forEach',
+        task: 'Feed max',
         completed: false
     },
-    // etc...
+    {
+        task: 'Water plants',
+        completed: false
+    },
+    {
+        task: 'Feed self',
+        completed: false
+    },
+    {
+        task: 'Nap',
+        completed: false
+    },
+   
 ];
 
 export default todos;
